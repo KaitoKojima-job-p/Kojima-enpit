@@ -1,0 +1,9 @@
+# Firebase
+GoogleService-Info.plist
+
+# Xcode
+Pods/
+xcuserdata/
+*.xcworkspace
+.DS_Store
+build/
